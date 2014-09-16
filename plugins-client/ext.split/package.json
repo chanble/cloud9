@@ -1,0 +1,14 @@
+{
+    "name": "ext.split",
+    "version": "0.0.1",
+    "main": "split-ext.js",
+    "private": true,
+    "plugin": {
+        "provides": [
+            "ext.split"
+        ],
+        "consumes": [
+            "client-plugins"
+        ]
+    }
+}
